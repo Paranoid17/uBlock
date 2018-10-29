@@ -1,0 +1,10 @@
+### Esse é o manifesto do uBlock
+
+1. O **usuário decide** qual conteúdo da web é aceitável ou não em seu navegador.
+
+O projeto uBlock não apóia o _"Manifesto de Anúncios Aceítáveis"_ do Adblock Plus,
+porque a campanha de marketing dos _"Anúncios Aceitáveis"_ é, na verade o plano
+de negócios de uma entidade que visa o lucro.
+
+Usuários são melhores em saber o quê é ou não é aceitável para eles. O único propósito do 
+uBlock é dar aos usuários os meios de fortificar suas próprias escolhas.
